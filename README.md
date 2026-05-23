@@ -1,4 +1,4 @@
-# FeedUP - PSW
+# FeedUP 
 🚧Projeto em refatoração
 
 ## Propósito
